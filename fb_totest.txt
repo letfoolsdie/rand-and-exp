@@ -1,0 +1,4 @@
+1. 1nn classifier with train points / with destinations
+2. train GBoosting / xgboost on the whole dataset
+3. knn with distances weighted by popularity
+4. knn with distances weighted by popularity and time
