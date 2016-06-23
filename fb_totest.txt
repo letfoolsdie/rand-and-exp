@@ -2,3 +2,5 @@
 2. train GBoosting / xgboost on the whole dataset
 3. knn with distances weighted by popularity
 4. knn with distances weighted by popularity and time
+-----
+search for knn only in accuracy area
